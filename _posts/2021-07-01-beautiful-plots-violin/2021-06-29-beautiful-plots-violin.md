@@ -188,15 +188,16 @@ fig.update_yaxes(tickfont=dict(family='DejaVu Sans', color='#333333', size=14),
 fig.show(config={"displayModeBar": False, "showTips": False})
 ```
 
+{% include violin-births.html %}
 
-<br/>
+<!-- <br/>
 <div style="text-align: center; ">
 <figure>
   <img src="/assets/img/2021-07-01-beautiful-plots-violin/violin_births.svg" alt="births of americans month-by-month percentatge change" style="background:none; border:none; box-shadow:none; text-align:center" width="600px"/>
 
 </figure>
 </div>
-<br/>
+<br/> -->
 
 Notice how much nicer the chart has become with the added interactivity? That's why I love Plotly!
 
