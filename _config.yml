@@ -7,17 +7,15 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
-title: Chirpy                          # the main title
+title: Tim von Hahn                         # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Data Science. Innovation. ML practitioner.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Data scientist. Passionately using machine learning to help companies thrive.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://www.tvhahn.com'
 
 author: your_full_name                  # change to your full name
 
